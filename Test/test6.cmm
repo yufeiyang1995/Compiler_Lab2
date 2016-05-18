@@ -1,0 +1,7 @@
+int func()
+{
+ int oct = 0125;
+ int dec = 239;
+ int hex1 = 0x0B0c;
+ int dhex2 = 0XD01;
+}
